@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Kumbh+Sans:wght@300&family=Outfit:wght@800&family=Poppins:ital,wght@0,400;0,500;1,200&display=swap');
+
+body {
+	--color-primary: #2ab2af;
+	--color-primary-sign: #c0df34;
+	--background-color: #e5eff5;
+	--text-color: #98a6bd;
+
+  background-color: #e5eff5;
+  justify-content: center;
+}
+
+.top {
+	position: fixed;
+	border: white solid;
+  	width: 495px;
+  	height: 180px;
+	background-color: white;
+	margin: 10% 0 0 30%; 
+	padding: 25px 95px 25px 25px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	text-align: left;
+	font-family: 'Karla', sans-serif;
+}
+
+.bLeft {
+	position: fixed;
+	border: #2ab2af solid;
+	background-color: #2ab2af;
+	color: white;
+	margin: 25% 0 0 30%; 
+	padding: 49px 49px 49px 49px;
+	border-bottom-left-radius: 15px;
+	height: 164px;
+}
+
+.bRight {
+	position: fixed;
+	border: #2ab2af solid;
+	background-color: #2ab2af;
+	margin: 25% 0 0 50%; 
+	padding: 30px 30px 42px 30px;
+	color: white;
+	border-bottom-right-radius: 15px;
+	font-family: 'Karla', sans-serif;
+	width: 249px;
+	height: 190px;
+}
+
+.JOC {
+	color: #2ab2af;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.HF {
+	font-weight: bold;
+	color: #c0df34;
+}
+
+.gain {
+	font-size: 15px;
+	color: #98a6bd;
+}
+
+.MS {
+	font-weight: bold;
+	font-family: 'Karla', sans-serif;
+}
+
+.why-us {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.List {
+	font-size: 14px;
+	font-weight: 100;
+	font-family: 'Karla', sans-serif;
+}
+
+button {
+	color: white;
+	background-color: #c0df34;
+	border: none;
+	border-radius: 5px;
+	width: 250px;
+	height: 45px;
+	font-family: 'Karla', sans-serif;
+	font-size: 15px;
+	font-weight: 700;
+ 	box-shadow: 0.0 0.0px 5px 3px rgba(0, 0, 0, 0.2);
+}
+
+p {
+	font-family: 'Karla', sans-serif;
+}
+
+.two-nine {
+	font-weight: 600;
+	font-size: 30px;
+}
